@@ -16,4 +16,5 @@ deactivate
 ```sh
 pip install opencv-python
 pip install imutils
+pip install imageio # for GIF creation
 ```
