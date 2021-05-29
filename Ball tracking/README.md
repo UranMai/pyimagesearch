@@ -17,3 +17,4 @@ python ball_tracking.py --video ball_tracking_example.mp4 --buffer 30
 2. [GIF creation](https://pysource.com/2021/03/25/create-an-animated-gif-in-real-time-with-opencv-and-python/)
 
 ### GIF
+<img src="https://github.com/UranMai/pyimagesearch/blob/main/Ball%20tracking/ball.gif" />
