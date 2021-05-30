@@ -1,5 +1,9 @@
-# pyimagesearch
+# Pyimagesearch
 Computer vision, DL, OpenCV 
+
+# Useful sources
+- [Object detection guide](pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
+
 
 
 # Installation
